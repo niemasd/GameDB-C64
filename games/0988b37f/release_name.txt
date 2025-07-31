@@ -1,1 +1,1 @@
-Speedsaver $C000 (USA, Europe) (Program).crt
+Speedsaver $C000 (USA, Europe) (Program)

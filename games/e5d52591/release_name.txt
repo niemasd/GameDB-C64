@@ -1,1 +1,1 @@
-C64-FORTH (USA, Europe) (Program).crt
+C64-FORTH (USA, Europe) (Program)
